@@ -7,17 +7,17 @@ modifiedOn: 2014-05-18
 
 <h2 id="introduction">导论</h2>
 
-- [概述](introduction/intro.html)
-- [JavaScript的历史](introduction/history.html)
+- [概述](introduction/intro.md)
+- [JavaScript的历史](introduction/history.md)
 
 <h2 id="grammar">语法</h2>
 
-- [基本语法](grammar/basic.html)
-- [数据类型](grammar/types.html)
-- [数值](grammar/number.html)
-- [字符串](grammar/string.html)
-- [对象](grammar/object.html)
-- [数组](grammar/array.html)
+- [基本语法](grammar/basic.md)
+- [数据类型](grammar/types.md)
+- [数值](grammar/number.md)
+- [字符串](grammar/string.md)
+- [对象](grammar/object.md)
+- [数组](grammar/array.md)
 - [函数](grammar/function.html)
 - [运算符](grammar/operator.html)
 - [数据类型转换](grammar/conversion.html)
